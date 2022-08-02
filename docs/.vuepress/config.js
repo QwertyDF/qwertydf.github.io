@@ -9,7 +9,7 @@ module.exports = {
         displayAllHeaders: true,
         activeHeaderLinks:false,
         sidebar: [
-            '',
+            '/ABOUT',
             'two/',
             'one/'
         ]
